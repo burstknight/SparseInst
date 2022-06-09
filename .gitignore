@@ -49,3 +49,9 @@ _darcs
 
 # mac file
 .DS_Store
+
+# dataset
+datasets/*
+
+# result
+result/*
