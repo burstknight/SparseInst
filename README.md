@@ -192,6 +192,7 @@ python train_net.py --config-file <CONFIG> --num-gpus 8
 python train_net.py --config-file configs/sparse_inst_r50vd_dcn_giam_aug.yaml --num-gpus 8
 ```
 
+If you want to train SparseInst using your dataset, you can see [this](./TrainingForCustomDataset.md) for details.
 
 ## Acknowledgements
 
